@@ -34,7 +34,7 @@ console.log(`>>> Overall Grade: ${percent}% (${right} of 5 responses correct) <<
 if (percent <= 60) {
   console.log(">>> Status: FAILED <<<");
 } else {
-  console.log(">>> Status: PASSED <<<");Maddie
+  console.log(">>> Status: PASSED <<<");
 }
 
 
